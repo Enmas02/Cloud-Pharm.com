@@ -1,0 +1,11 @@
+Para Importar la Base de datos ir a Phpmyadmin
+
+Crear la base de datos llamada cloudpharm
+
+Una vez creada ir a menu importar
+
+Posterior darle al boton Choose file
+
+Seleccionar cloudpharm.sql
+
+Todo listo

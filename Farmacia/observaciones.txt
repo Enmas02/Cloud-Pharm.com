@@ -1,0 +1,4 @@
+el registrar, que el boton guarde...
+que se haga un select en el "codigo"
+las contraseñas(dificultad, que sean iguales, el ojo)
+que todos los campos sean necesarios
